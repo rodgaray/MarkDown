@@ -27,9 +27,10 @@ Ahí quedó bastante bien
 
 <rgaray@pami.org.ar>
 
-Link incluido
-
+Link:
 Esto te lleva a <http://google.com/>
+
+Otro mas de [Google.com](http://google.com/){:target="_blank"}
 
 Esto también te lleva a [Google](http://google.com) pero está metido dentro de la palabra
 
