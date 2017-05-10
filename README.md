@@ -40,3 +40,5 @@ Esto también te lleva a [Google](http://google.com) pero está metido dentro de
 
 
 Here is an inline ![smiley](http://media.istockphoto.com/vectors/call-icon-vector-id502804630){:height="36px" width="36px"}.
+
+<a href="url"><img src="http://media.istockphoto.com/vectors/call-icon-vector-id502804630" align="left" height="48" width="48" ></a>
