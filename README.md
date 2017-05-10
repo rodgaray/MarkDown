@@ -37,3 +37,6 @@ Esto también te lleva a [Google](http://google.com) pero está metido dentro de
 
 
 ![Logo](http://media.istockphoto.com/vectors/call-icon-vector-id502804630 =250x250)
+
+
+Here is an inline ![smiley](http://media.istockphoto.com/vectors/call-icon-vector-id502804630){:height="36px" width="36px"}.
