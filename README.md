@@ -29,8 +29,10 @@ Ahí quedó bastante bien
 
 Link:
 Esto te lleva a <http://google.com/>
+ 
+Otro mas de [Google.com](http://google.com/){:target="_blank"} Pero no anda
 
-Otro mas de [Google.com](http://google.com/){:target="_blank"}
+Este otro debería andar <a href="Google.com" target="_blank">New Tab</a>
 
 Esto también te lleva a [Google](http://google.com) pero está metido dentro de la palabra
 
