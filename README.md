@@ -36,4 +36,4 @@ Esto también te lleva a [Google](http://google.com) pero está metido dentro de
 ![Logo](http://media.istockphoto.com/vectors/call-icon-vector-id502804630)
 
 
-![Logo](http://media.istockphoto.com/vectors/call-icon-vector-id502804630 | width=250x250)
+![Logo](http://media.istockphoto.com/vectors/call-icon-vector-id502804630 =250x250)
